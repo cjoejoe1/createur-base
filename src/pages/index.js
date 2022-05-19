@@ -2,7 +2,7 @@ import * as React from "react"
 import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { Container, Row } from "react-bootstrap";
+import { Container, Row} from "react-bootstrap";
 
 
 const IndexPage = () => (
