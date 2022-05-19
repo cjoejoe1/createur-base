@@ -12,7 +12,7 @@ const IndexPage = () => (
     <Container>
       <Row>
         <div id='homeImg'>
-          <StaticImage src="../images/createur-rocket.png" width={100} quality={100} alt="Createur.com" placeholder='NONE'/>
+          <StaticImage src="../images/createur-rocket.png" width={100} quality={100} alt="Createur" placeholder='NONE'/>
         </div>
       </Row>
     </Container>
